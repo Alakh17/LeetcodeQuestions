@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0187-repeated-dna-sequences) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Backtracking
 |  |
@@ -17,4 +18,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2375-construct-smallest-number-from-di-string) |
+## Hash Table
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0187-repeated-dna-sequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0187-repeated-dna-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
