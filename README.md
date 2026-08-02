@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0187-repeated-dna-sequences) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Sliding Window
 |  |
 | ------- |
