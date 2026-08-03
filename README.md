@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2401-longest-nice-subarray](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2401-longest-nice-subarray) |
+## Math
+|  |
+| ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
