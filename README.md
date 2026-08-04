@@ -48,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0009-palindrome-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
