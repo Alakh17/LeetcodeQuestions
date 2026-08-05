@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Hash Table
 |  |
@@ -44,10 +45,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2401-longest-nice-subarray](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2401-longest-nice-subarray) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0009-palindrome-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2520-count-the-digits-that-divide-a-number) |
+## Sorting
+|  |
+| ------- |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 <!---LeetCode Topics End-->
