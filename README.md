@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0912-sort-an-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2401-longest-nice-subarray](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2401-longest-nice-subarray) |
 ## Math
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0344-reverse-string) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
