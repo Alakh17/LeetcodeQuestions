@@ -3,6 +3,7 @@ class Solution:
         a = set(nums)
         
         longest = 0
+        c=0
 
         for i in a:
             if i-1 not in a:
