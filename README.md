@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0541-reverse-string-ii) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Backtracking
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0541-reverse-string-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
