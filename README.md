@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0912-sort-an-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3870-count-commas-in-range](https://github.com/Alakh17/LeetcodeQuestions/tree/master/3870-count-commas-in-range) |
