@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0268-missing-number) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2401-longest-nice-subarray](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2401-longest-nice-subarray) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0912-sort-an-array) |
 | [0937-reorder-data-in-log-files](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0937-reorder-data-in-log-files) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0541-reverse-string-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
 | ------- |
