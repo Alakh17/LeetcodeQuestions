@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0268-missing-number) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Alakh17/LeetcodeQuestions/tree/master/1310-xor-queries-of-a-subarray) |
 | [2401-longest-nice-subarray](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2401-longest-nice-subarray) |
 ## Sliding Window
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0912-sort-an-array](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0912-sort-an-array) |
 | [0937-reorder-data-in-log-files](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0937-reorder-data-in-log-files) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Alakh17/LeetcodeQuestions/tree/master/1310-xor-queries-of-a-subarray) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/Alakh17/LeetcodeQuestions/tree/master/1310-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
