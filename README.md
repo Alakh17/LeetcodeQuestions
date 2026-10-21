@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0541-reverse-string-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/Alakh17/LeetcodeQuestions/tree/master/1310-xor-queries-of-a-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
