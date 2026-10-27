@@ -1,15 +1,23 @@
 class Solution:
-    def subsets(self, nums: list[int]) -> list[list[int]]:
-        n = len(nums)
-        total_subset = 1<<n
-        result = []
 
-        for num in range(total_subset):
-            lst = []
-            for i in range(n):
-                if num &(1<<i)!=0:
-                    lst.append(nums[i])
-            result.append(lst)
+    def fun(self,ind,nums,subset,result):
+        if ind >= len(nums):
+            result.append(subset.copy())
+            return 
+        subset.append(nums[ind])
+        self.fun(ind+1,nums,subset,result)
+        subset.pop()
+        self.fun(ind+1,nums,subset,result)
+        
+    def subsets(self, nums: list[int]) -> list[list[int]]:
+        result = []
+        self.fun(0,nums,[],result)
         return result
+        
+
+        
+
+        
+
 
         
