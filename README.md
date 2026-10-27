@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0078-subsets) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0128-longest-consecutive-sequence) |
