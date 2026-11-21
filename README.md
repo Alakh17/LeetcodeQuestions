@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0344-reverse-string) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0078-subsets) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Stack
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0509-fibonacci-number) |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0142-linked-list-cycle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
