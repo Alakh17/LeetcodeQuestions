@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0216-combination-sum-iii) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Alakh17/LeetcodeQuestions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Alakh17/LeetcodeQuestions/tree/master/0453-minimum-moves-to-equal-array-elements) |
